@@ -89,8 +89,8 @@ Handles closing the vault. In this process:
 
 3. **Deploy the Program:**
   Deploy the program to your desired Solana cluster:
-  ```bash
-  anchor deploy
+   ```bash
+   anchor deploy
 
 4. **Interact with the Program:**
 Use Anchor tests or your own client scripts to:
@@ -99,3 +99,4 @@ Use Anchor tests or your own client scripts to:
 - Deposit SOL into the vault.
 - Withdraw SOL from the vault.
 - Close the vault and reclaim any remaining funds.
+
